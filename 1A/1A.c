@@ -19,4 +19,5 @@ int main(){
     }
     printf("The sum of even index elements is %d",even);
     printf("The sum of odd indexed elements is %d",odd);
+
 }
